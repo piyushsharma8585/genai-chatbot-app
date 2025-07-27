@@ -8,7 +8,7 @@ app = Flask(__name__)
 PROJECT_ID = "project-dev-1985"  
 LOCATION = "us-central1" 
 
-GOOGLE_API_KEY='AIzaSyBl5oCGT1lAhH_EJsdB2xOCfCOwXd0fwrY'
+GOOGLE_API_KEY='xxxx'
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
